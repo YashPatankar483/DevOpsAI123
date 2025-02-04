@@ -1,2 +1,1 @@
-# DevOpsAI
-AI-powered DevOps automation system for optimizing CI/CD pipelines. Combines Generative AI, NLP, and Deep Learning for predictive analytics, anomaly detection, and intelligent log analysis. Features an Error Resolution Assistant that uses FAISS and LLMs to quickly diagnose and resolve issues by retrieving solutions from past logs via a Streamlit UI
+AI-Powered Troubleshooting for DevOps Pipelines is an AI-powered tool designed to help developers quickly diagnose and resolve DevOps-related errors. By leveraging FAISS-based vector search and large language models (LLMs), the system provides relevant solutions based on past error logs.
